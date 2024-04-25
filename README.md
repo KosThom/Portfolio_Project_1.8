@@ -98,14 +98,14 @@ Finally, on the right a Legend explains how the 3 Price Tiers are currently leve
 
 Finding Insights in the Report
 
-Manager Summer Sewald would be able to see, that for Q3 of 2017, Agent Kary Hendrixson converted the higher number of opportunities into actual deals (54) (see screenshot below)
+Manager Summer Sewald would be able to see, that for Q3 of 2017, Agent Kary Hendrixson converted the higher number of opportunities into actual deals (54) (see Additional screenshot 1)
 
  
 
-At the same time, Kary was the slowest on closing the deals, as it took her on average 51.3 days:
+At the same time, Kary was the slowest on closing the deals, as it took her on average 51.3 days (see Additional screenshot 2)
 
  
 
-At least Kary closed most of the deals very close to the SRP (only -$10.56 on average), so the revenue for the company was very close to the minimum expected amount:
+At least Kary closed most of the deals very close to the SRP (only -$10.56 on average), so the revenue for the company was very close to the minimum expected amount (see Additional screenshot 3)
 
  
